@@ -20,3 +20,6 @@ Estamos aprendiendo el uso de Photoshop, también estamos viendo teoria sobre lo
 ### Jonathan Miranda
 Estamos aprendiendo a usar GitHub para tener repositorios de nuestros proyectos y poder trabajar en equipo. Algunos de los temas que hemos visto es Markdown, ignorar archivos, clonar repositorios y trabajar con ramas.
 
+## Sistemas Operativos
+### Docente: Alcides Albora
+Estamos revisando lo que es un sistema operativo, los tipos que hay y sus funciones. También estamos viendo sobre el almacenamiento de las computadoras y su forma de arranque.
