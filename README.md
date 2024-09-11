@@ -15,3 +15,8 @@ Estamos aprendiendo sobre como hacer un Gamification Model Canvas, esto para que
 ## Principios de Composicion y Diseño
 ### Roberto Melo
 Estamos aprendiendo el uso de Photoshop, también estamos viendo teoria sobre los tipos de diseños que existen, pero principalmente nos estamos enfocando en el diseño gráfico.
+
+## Programación en Lenguajes Interpretados
+### Jonathan Miranda
+Estamos aprendiendo a usar GitHub para tener repositorios de nuestros proyectos y poder trabajar en equipo. Algunos de los temas que hemos visto es Markdown, ignorar archivos, clonar repositorios y trabajar con ramas.
+
