@@ -1,0 +1,13 @@
+abcf56d (HEAD -> main, origin/main, origin/HEAD) Resolviendo quinto error de fusión
+65f4a94 Resolviendo cuarto error de fusión
+a8fb722 Resolviendo tercer error de fusión
+3dcc716 Resolviendo segundo error de fusión
+4cb11d5 Resolviendo primer error de fusión
+7403284 (origin/Ingles) Creando y subiendo rama de Ingles
+ba50b2a (origin/Proyecto_Semestral) Creando y subiendo rama de Proyecto Semestral
+84388bc (origin/Diseño_de_Videojuegos) Creando y subiendo rama de Diseño de Videojuegos
+c35d803 (origin/Principios_de_Composicion_y_Diseño) Creando y subiendo rama de Principios de Composicion y Diseño
+957ffcb (origin/Programacion_Lenguajes_Interpretados) Creando y subiendo rama de Programacion en Lenguajes Interpretados
+bfd6fb7 (origin/Sistemas_Operativos) Creando y subiendo rama de Sistemas Operativos
+ef1fcb5 Creando y agregando rama de Sistemas Operativos
+1db8067 Primer commit
