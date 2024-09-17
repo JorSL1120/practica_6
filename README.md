@@ -27,3 +27,7 @@ Estamos revisando lo que es un sistema operativo, los tipos que hay y sus funcio
 ---
 
 Creando la version 1.0.0
+
+---
+
+Creando la version 1.1.0
