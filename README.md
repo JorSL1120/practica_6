@@ -31,3 +31,7 @@ Creando la version 1.0.0
 ---
 
 Creando la version 1.1.0
+
+---
+
+No se que poner
